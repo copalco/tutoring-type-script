@@ -1,0 +1,29 @@
+{
+  "name": "typescrript-exercise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/copalco/tutoring-type-script.git"
+  },
+  "keywords": [
+    "learning",
+    "typescript",
+    "programming"
+  ],
+  "author": "Piotr Kopalko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/copalco/tutoring-type-script/issues"
+  },
+  "homepage": "https://github.com/copalco/tutoring-type-script#readme",
+  "dependencies": {
+    "@types/jest": "^27.0.2",
+    "jest": "^27.2.1",
+    "ts-jest": "^27.0.5"
+  }
+}
